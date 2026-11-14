@@ -81,6 +81,3 @@ The cross-section was drawn in AutoCAD with one layer per component (conductor, 
 - The conductor diameter (18.0 mm) is a typical value for a compacted 240 mm² conductor. Exact values vary slightly between manufacturers.
 - Copper weight uses the nominal 240 mm² area. Real cables are slightly heavier because of stranding lay-up.
 - The current-rating and derating values in section 2 are approximate values from the IEC 60364-5-52 tables.
-
----
-Author: Nouran Abobakr · Electrical Power and Machines Engineering, Menoufia University (2026)
